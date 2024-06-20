@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VeGameSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ByteDance CloudGame and CloudPhone SDK'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'QuickStart/iOS/*.h'
+  s.source_files = 'VeGameSDK/Classes/VEGameDESC.h'
   
   # s.resource_bundles = {
   #   'VeGameSDK' => ['VeGameSDK/Assets/*.png']
