@@ -1,0 +1,16 @@
+PODS:
+  - VeGameSDK (1.0.1)
+
+DEPENDENCIES:
+  - VeGameSDK (from `../`)
+
+EXTERNAL SOURCES:
+  VeGameSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VeGameSDK: a79891cad24be9cd43a51a8b28d29013201d54a8
+
+PODFILE CHECKSUM: 7b45265bdac8716a29aacfd964b36f1bc0c780cb
+
+COCOAPODS: 1.11.3
